@@ -9,3 +9,4 @@ int main ()
     }
     return 0;
 }
+// importar arquivo com nome gcc -o 'nome' nome do arquivo
