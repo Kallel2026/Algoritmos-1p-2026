@@ -5,11 +5,11 @@ int main() {
     resto = num % 2;
     if (resto == 0)
     {
-        printf("%d, Par\n", num);
+        printf("%d, Par, restoeh \n", num);
     }
     else
     {
-        printf("%d, Impar\n", num);
+        printf("%d, Impar, resto eh\n", num);
     }
     return 0;
 
