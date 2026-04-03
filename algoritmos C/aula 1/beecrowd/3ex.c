@@ -9,7 +9,7 @@ int main(){
     result = PI * c * c;
     printf("CIRCULO: %0.3lf\n", result);
 
-    result = ((a * b) * c) / 2;
+    result = ((a + b) * c) / 2;
     printf("TRAPEZIO: %0.3lf\n", result);
 
     result = b * b;
@@ -17,5 +17,5 @@ int main(){
 
     result = a * b;
     printf("RETANGULO: %0.3lf\n", result);
-    return 0,
+    return 0;
 }
